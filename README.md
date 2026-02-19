@@ -15,9 +15,11 @@ This C# console application records and analyzes a delivery driver's weekly fuel
 1. Make sure **.NET SDK** is installed on your computer.  
 2. Open VS Code and navigate to the project folder.  
 3. Open the terminal and run:
+4. Follow the prompts to input the driver’s name, weekly fuel budget, total distance traveled, and fuel expenses for 5 days.
+5. The program will display a Weekly Audit Report in the console.
+
 
 ```bash
 dotnet run
 
-Follow the prompts to input the driver’s name, weekly fuel budget, total distance traveled, and fuel expenses for 5 days.
-The program will display a Weekly Audit Report in the console.
+
